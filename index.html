@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="default">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OnlyCracks</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/matrix-rain.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎮</text></svg>">
+</head>
+<body>
+    <div id="matrix-loader">
+        <canvas id="matrix-canvas"></canvas>
+        <div class="loader-content">
+            <div class="matrix-text glitch" data-text="CRACKHUB SYSTEM INITIALIZING">ONLYCRACKS SYSTEM INITIALIZING</div>
+            <div class="progress-container">
+                <div class="progress-bar" id="load-progress"></div>
+            </div>
+            <div id="load-percent">0%</div>
+            <div id="load-status">Initializing core modules...</div>
+        </div>
+    </div>
+
+    <header>
+        <nav>
+            <a href="#home" class="logo" id="home-link">
+                <i class="fas fa-gamepad"></i> OnlyCracks
+            </a>
+            <div class="nav-links">
+                <a href="index.html" class="nav-item">Home</a>
+                <a href="#games" class="nav-item" id="games-link">Games</a> <!-- This link will be dynamically handled by router.js -->
+                <a href="requests.html" class="nav-item">Request</a>
+            </div>
+            <button id="theme-toggle">🌓</button>
+        </nav>
+    </header>
+
+    <main id="page-container">
+        <!-- Home Page -->
+        <section id="home-page" class="page active">
+            <div class="hero">
+                <div class="hero-content">
+                    <h4 style="color: navajowhite; font-weight: bold;">WORK IN PROGRESS: INFORMATION MIGHT NOT BE CORRECT</h4>
+                    <h1 class="neon-title">Welcome to OnlyCracks</h1>
+                    <p class="hero-subtitle">Your Ultimate Game Tracking Solution</p>
+                </div>
+            </div>
+
+            <div class="features-container">
+                <div class="feature-card">
+                    <i class="fas fa-unlock-alt"></i>
+                    <h3>Crack Status Tracking</h3>
+                    <p>Real-time monitoring of game crack availability across trusted sources.</p>
+                </div>
+                <div class="feature-card">
+                    <i class="fas fa-shield-alt"></i>
+                    <h3>Denuvo Detection</h3>
+                    <p>Instant identification of games using Denuvo protection.</p>
+                </div>
+                <div class="feature-card">
+                    <i class="fas fa-sync-alt"></i>
+                    <h3>Update Tracking</h3>
+                    <p>Monitor both original and cracked version updates.</p>
+                </div>
+            </div>
+
+            <div class="guide-section">
+                <h2><i class="fas fa-book"></i> Getting Started</h2>
+                <div class="guide-steps">
+                    <div class="step">
+                        <div class="step-number">1</div>
+                        <h4>Search Games</h4>
+                        <p>Use our powerful search to find any game in our database.</p>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">2</div>
+                        <h4>Check Status</h4>
+                        <p>View crack availability, versions, and trusted sources.</p>
+                    </div>
+                    <div class="step">
+                        <div class="step-number">3</div>
+                        <h4>Stay Updated</h4>
+                        <p>Get alerts when new cracks or updates are available.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Dynamically Loaded Games Page -->
+        <section id="games-page" class="page">
+            <div class="container">
+                <div class="search-container">
+                    <input type="text" id="search" placeholder="SEARCH GAMES..." autocomplete="off">
+                    <i class="fas fa-search"></i>
+                </div>
+                <div class="controls">
+                    <div class="filters">
+                        <button class="filter-btn active" data-filter="all"><i class="fas fa-gamepad"></i> ALL</button>
+                        <button class="filter-btn" data-filter="cracked"><i class="fas fa-unlock"></i> CRACKED</button>
+                        <button class="filter-btn" data-filter="uncracked"><i class="fas fa-lock"></i> UNCRACKED</button>
+                        <button class="filter-btn" data-filter="denuvo"><i class="fas fa-shield-alt"></i> DENUVO</button>
+                        <button class="filter-btn" data-filter="repack"><i class="fas fa-archive"></i> REPACKS</button>
+                    </div>
+                    <select id="sort" class="sort-select">
+                        <option value="name">A-Z</option>
+                        <option value="newest">NEWEST</option>
+                        <option value="oldest">OLDEST</option>
+                    </select>
+                </div>
+                <div id="game-list" class="game-grid"></div>
+                <div class="pagination">
+                    <button id="prev-page" class="neon-btn"><i class="fas fa-chevron-left"></i></button>
+                    <div id="page-info" class="neon-text">PAGE 1/1</div>
+                    <button id="next-page" class="neon-btn"><i class="fas fa-chevron-right"></i></button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Terminal Window -->
+    <div class="terminal-window glitch-box">
+        <div class="terminal-header">
+            <div class="terminal-title">SYSTEM TERMINAL</div>
+            <div class="terminal-controls">
+                <span class="control red"></span>
+                <span class="control yellow"></span>
+                <span class="control green"></span>
+            </div>
+        </div>
+        <div class="terminal-body" id="systemLog"></div>
+    </div>
+
+    <!-- Game Modal -->
+    <div id="game-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <div class="modal-header">
+                <h2 id="modal-title" class="neon-title"></h2>
+                <div class="modal-status">
+                    <span id="modal-crack-status" class="status-badge"></span>
+                    <span id="modal-denuvo" class="status-badge denuvo"><i class="fas fa-shield-alt"></i> DENUVO</span>
+                </div>
+            </div>
+            <div class="modal-body">
+                <div class="modal-image-container scanlines">
+                    <img id="modal-image" src="" alt="Game Image" class="pixelate">
+                </div>
+                <div class="modal-details">
+                    <div class="detail-row">
+                        <label><i class="fas fa-info-circle"></i> Description</label>
+                        <p id="modal-description"></p>
+                    </div>
+                    <div class="detail-row">
+                        <label><i class="fas fa-users"></i> Repackers</label>
+                        <div id="modal-repackers"></div>
+                    </div>
+                    <div class="detail-row">
+                        <label><i class="fas fa-globe"></i> Official Sources</label>
+                        <div id="modal-sources"></div>
+                    </div>
+                    <div class="detail-row">
+                        <label><i class="fas fa-link"></i> More Info</label>
+                        <div id="modal-links"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/animations.js"></script>
+    <script src="js/APIService.js"></script>
+    <script src="js/GameManager.js"></script>
+    <script src="js/Terminal.js"></script>
+    <script src="js/UIManager.js"></script>
+    <script src="js/router.js"></script>
+    <script src="js/main.js"></script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</body>
+</html>
