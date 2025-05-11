@@ -1,11 +1,11 @@
 class APIService {
     constructor() {
-        this.BASE_URL = 'https://rogerwhatever.github.io/onlycracks/games.json';
+        this.BASE_URL = 'https://rogerwhatever.github.io/onlycracks/';
     }
 
     async getGames() {
         try {
-            const response = await fetch(`${this.BASE_URL}`);
+            const response = await fetch(`${this.BASE_URL}games.json`);
             if (!response.ok) throw new Error('Network response failed');
             const data = await response.json();
             
