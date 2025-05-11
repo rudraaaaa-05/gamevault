@@ -2602,6 +2602,41 @@
     ],
     "repack_available": true
 
+  },
+  {
+    "id": 101,
+    "name": "Alan Wake 2",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/108710/Alan_Wake_2/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2023-10-27",
+    "original_version": "1.0",
+    "cracked_version": "1.2.8",
+    "denuvo": false,
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/3116/b1641ab1b5ec0c8f76c44e59e9d8a1639c913c98c09d057f.jpg",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=117848",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/alan-wake-2/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/alan-wake-2/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
   }
 
 
