@@ -1,6 +1,6 @@
 class APIService {
     constructor() {
-        this.BASE_URL = '/games.json';
+        this.BASE_URL = './games.json';
     }
 
     async getGames() {
