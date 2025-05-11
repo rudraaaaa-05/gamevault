@@ -2637,12 +2637,36 @@
       }
     ],
     "repack_available": true
+  },
+  {
+    "id": 102,
+    "name": "Stray",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/6700/Stray/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2022-07-19",
+    "original_version": "1.0",
+    "cracked_version": "1.0",
+    "denuvo": false,
+    "image": "https://adventuregamehotspot.com/images/games/6/383-stray-xbox-teaser.jpg",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=106009",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/stray/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
   }
-
-
-
-
-
-
 ]
 
