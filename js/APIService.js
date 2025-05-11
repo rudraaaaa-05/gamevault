@@ -1,11 +1,11 @@
 class APIService {
     constructor() {
-        this.BASE_URL = '/docs';
+        this.BASE_URL = '/games.json';
     }
 
     async getGames() {
         try {
-            const response = await fetch(`${this.BASE_URL}/games.json`);
+            const response = await fetch(`${this.BASE_URL}`);
             if (!response.ok) throw new Error('Network response failed');
             const data = await response.json();
             
