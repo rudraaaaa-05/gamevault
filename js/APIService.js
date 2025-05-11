@@ -1,6 +1,6 @@
 class APIService {
     constructor() {
-        this.BASE_URL = './games.json';
+        this.BASE_URL = 'https://rogerwhatever.github.io/onlycracks/games.json';
     }
 
     async getGames() {
