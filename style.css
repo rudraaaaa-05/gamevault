@@ -8,6 +8,7 @@
     --uncracked: #ff3333;
     --denuvo: #ffcc00;
     --repack: #00a8ff;
+    --nsfw: #ff4081;
     --modal-bg: rgba(0, 10, 0, 0.95);
     --neon-glow: 0 0 10px var(--matrix-green);
     --anticipated: #9c27b0;
@@ -41,6 +42,7 @@
     --cracked: #9c27b0;
     --denuvo: #ff9800;
     --repack: #673ab7;
+    --nsfw: #ff4081;
     --modal-bg: rgba(26, 5, 31, 0.95);
     --neon-glow: 0 0 10px #9c27b0;
     scrollbar-width: thin;
@@ -376,8 +378,8 @@ h1::after {
     background: var(--repack);
 }
 
-.filter-btn[data-filter="anticipated"].active {
-    background: var(--anticipated);
+.filter-btn[data-filter="nsfw"].active {
+    background: var(--nsfw);
 }
 
 .sort-controls {
@@ -529,6 +531,34 @@ h1::after {
     align-items: center;
     gap: 0.5rem;
     backdrop-filter: blur(2px);
+}
+.denuvo-badge {
+    background: rgba(255, 204, 0, 0.15);
+    color: var(--denuvo);
+    border: 1px solid var(--denuvo);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+.nsfw-badge {
+    background: rgba(255, 64, 129, 0.15);
+    color: var(--nsfw);
+    border: 1px solid var(--nsfw);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
 }
 
 /* ========== GAME DETAILS ========== */
@@ -1252,6 +1282,7 @@ h1::after {
 /* ========== RESPONSIVE ========== */
 .status-badge,
 .denuvo-badge,
+.nsfw-badge
 .repack-badge {
     transition: all 0.3s ease;
     box-shadow: 0 0 8px rgba(0, 255, 65, 0.1);
@@ -1259,6 +1290,7 @@ h1::after {
 
 .status-badge:hover,
 .denuvo-badge:hover,
+.nsfw-badge:hover,
 .repack-badge:hover {
     transform: translateY(-2px);
     box-shadow: 0 0 12px rgba(0, 255, 65, 0.2);
@@ -1267,6 +1299,7 @@ h1::after {
 /* Icon alignment */
 .repack-badge i,
 .denuvo-badge i,
+.nsfw-badge i,
 .status-badge i {
     font-size: 0.8em;
     filter: drop-shadow(0 0 2px currentColor);
