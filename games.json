@@ -2667,6 +2667,36 @@
       }
     ],
     "repack_available": true
+  },
+  {
+    "id": 103,
+    "name": "Grand Theft Auto: Vice City",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/12110/Grand_Theft_Auto_Vice_City/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2002-10-29",
+    "original_version": "1.0",
+    "cracked_version": "1.0",
+    "denuvo": false,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/12110/capsule_616x353.jpg",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=76527",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/638-grand-theft-auto-vice-city-10-year-anniversary-pc-edition-v1-0-multi5-dodi-repack/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
   }
 ]
 
