@@ -1856,16 +1856,21 @@
     "original_version": "1.0",
     "cracked_version": "6.66",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/782330/capsule_616x353.jpg",
+    "image": "https://cdn1.epicgames.com/offer/b5ac16dc12f3478e99dcfea07c13865c/EGS_DOOMEternal_idSoftware_S1_2560x1440-06b46993a4b6c19a9e614f2dd1202215",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115678",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=90071&hilit=doom+eternal",
         "verified": true
       },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/doom-eternal/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/doom-eternal/",
         "verified": true
       }
     ],
@@ -1886,16 +1891,21 @@
     "original_version": "1.0",
     "cracked_version": "1.0.4",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/612880/capsule_616x353.jpg",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/3018/MwvmVsIf2RIrC9LrHcilGzmu.png",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126789",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=81328&hilit=Wolfenstein+II%3A+The+New+Colossus",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/wolfenstein-ii-the-new-colossus/",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/wolfenstein-2/",
+        "url": "https://dodi-repacks.site/416-wolfenstein-ii-the-new-colossus-v20181127-update-10-all-dlcs-fast-install-multi9-dodi-repack-from-46-4-gb/",
         "verified": true
       }
     ],
@@ -1916,7 +1926,7 @@
     "original_version": "1.0",
     "cracked_version": "1.14.74",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1716740/capsule_616x353.jpg",
+    "image": "https://www.keywordsstudios.com/images/custom/ea/f18bb4d4766a090c4194c3d4b361f3/w880/q80/images/uploads/eaf18bb4d4766a090c4194c3d4b361f3.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
@@ -1941,20 +1951,25 @@
     "id": 61,
     "name": "Like a Dragon Gaiden: The Man Who Erased His Name",
     "is_cracked": false,
-    "cracked_by": [],
-    "crack_date": null,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/2375550/Like_a_Dragon_Gaiden_The_Man_Who_Erased_His_Name/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2023-11-09",
     "original_version": "1.0",
     "cracked_version": null,
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2375550/capsule_616x353.jpg",
+    "image": "https://log-wp-media.s3.amazonaws.com/wp-content/uploads/2023/11/likeadragongaidendemo.jpg",
     "trusted_sources": [],
-    "repack_available": false,
-    "notes": "Denuvo-protected; uncracked as of October 2023."
+    "repack_available": false
   },
   {
     "id": 62,
     "name": "Like a Dragon: Ishin!",
-    "is_cracked": true,
+    "is_cracked": false,
     "cracked_by": [
       {
         "name": "STEAM PAGE",
@@ -1964,22 +1979,11 @@
     ],
     "crack_date": "2023-02-21",
     "original_version": "1.0",
-    "cracked_version": "1.08",
+    "cracked_version": null,
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1805480/capsule_616x353.jpg",
-    "trusted_sources": [
-      {
-        "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134567",
-        "verified": true
-      },
-      {
-        "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/like-a-dragon-ishin/",
-        "verified": true
-      }
-    ],
-    "repack_available": true
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiwGHOEFHAb7-Qfff5YQHktxYKKDiWuLJNhg&s",
+    "trusted_sources": [],
+    "repack_available": false
   },
     {
     "id": 63,
@@ -2077,17 +2081,22 @@
     "crack_date": "2015-09-01",
     "original_version": "1.0",
     "cracked_version": "1.15",
-    "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/287700/capsule_616x353.jpg",
+    "denuvo": true,
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0205/dyvo9eGUf7WTZx49eTpQyDuL.png",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=45678",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=65275&hilit=Metal+Gear+Solid+V%3A+The+Phantom+Pain",
         "verified": true
       },
       {
         "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/metal-gear-solid-v/",
+        "url": "https://fitgirl-repacks.site/metal-gear-solid-v-phantom-pain/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/1152-metal-gear-solid-v-the-phantom-pain-v1-15-all-dlcs-multi8-dodi-repack/",
         "verified": true
       }
     ],
@@ -2106,18 +2115,18 @@
     ],
     "crack_date": "2022-03-30",
     "original_version": "1.0",
-    "cracked_version": "1.002",
+    "cracked_version": "1.0",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1850570/capsule_616x353.jpg",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202106/2214/oP26q4BVa6RJk2CnJllYms2q.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134567",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=118516&hilit=Death+Stranding+Director%27s+Cut",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/death-stranding-directors-cut/",
+        "url": "https://dodi-repacks.site/1298-death-stranding-directors-cut-v1-000-build-8451356-bonus-content-dlc-multi20-from-46-5-dodi-repack/",
         "verified": true
       }
     ],
@@ -2220,46 +2229,21 @@
     "original_version": "1.0",
     "cracked_version": "1.03",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/235460/capsule_616x353.jpg",
+    "image": "https://www.savingcontent.com/wp-content/uploads/2013/03/MGRR.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=56789",
-        "verified": true
-      },
-      {
-        "name": "DODI",
-        "url": "https://dodi-repacks.site/metal-gear-rising-revengeance/",
-        "verified": true
-      }
-    ],
-    "repack_available": true
-  },
-  {
-    "id": 69,
-    "name": "Metal Gear Solid V: Ground Zeroes",
-    "is_cracked": true,
-    "cracked_by": [
-      {
-        "name": "STEAM PAGE",
-        "url": "https://store.steampowered.com/app/311340/METAL_GEAR_SOLID_V_GROUND_ZEROES/",
-        "verified": true
-      }
-    ],
-    "crack_date": "2014-12-18",
-    "original_version": "1.0",
-    "cracked_version": "1.05",
-    "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/311340/capsule_616x353.jpg",
-    "trusted_sources": [
-      {
-        "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=34567",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=63049&hilit=Metal+Gear+Rising%3A+Revengeance",
         "verified": true
       },
       {
         "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/metal-gear-solid-v-ground-zeroes/",
+        "url": "https://fitgirl-repacks.site/metal-gear-rising-revengeance/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/1372-metal-gear-rising-revengeance-build-2987854-dlcs-fullhd-multi8-dodi-repack/",
         "verified": true
       }
     ],
@@ -2320,17 +2304,22 @@
     "crack_date": "2021-05-07",
     "original_version": "1.0",
     "cracked_version": "1.02",
-    "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1196590/capsule_616x353.jpg",
+    "denuvo": false,
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115678",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=104701&hilit=Resident+Evil+Village",
         "verified": true
       },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/resident-evil-village/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/resident-evil-village/",
         "verified": true
       }
     ],
@@ -2338,29 +2327,34 @@
   },
   {
     "id": 72,
-    "name": "Hitman 3",
+    "name": "Hitman World of Assassination",
     "is_cracked": true,
     "cracked_by": [
       {
         "name": "STEAM PAGE",
-        "url": "https://store.steampowered.com/app/1659040/HITMAN_3/",
+        "url": "https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/",
         "verified": true
       }
     ],
-    "crack_date": "2022-01-20",
+    "crack_date": "2021-01-20",
     "original_version": "1.0",
-    "cracked_version": "3.130.1",
+    "cracked_version": "3.220",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1659040/capsule_616x353.jpg",
+    "image": "https://cdn1.epicgames.com/offer/ed55aa5edc5941de92fd7f64de415793/EGS_HITMANWorldofAssassination_IOInteractiveAS_Bundles_S1_2560x1440-c44b7c8cf06d0ab3d63f5316c03b7c05",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126789",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=105454&hilit=Hitman+3",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/hitman-world-of-assassination/",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/hitman-3/",
+        "url": "https://dodi-repacks.site/hitman-world-of-assassination/",
         "verified": true
       }
     ],
@@ -2368,29 +2362,34 @@
   },
   {
     "id": 73,
-    "name": "Horizon Zero Dawn: Complete Edition",
+    "name": "Horizon Zero Dawn Remastered",
     "is_cracked": true,
     "cracked_by": [
       {
         "name": "STEAM PAGE",
-        "url": "https://store.steampowered.com/app/1151640/Horizon_Zero_Dawn_Complete_Edition/",
+        "url": "https://store.steampowered.com/app/2561580/Horizon_Zero_Dawn_Remastered/",
         "verified": true
       }
     ],
-    "crack_date": "2020-08-07",
+    "crack_date": "2024-08-31",
     "original_version": "1.0",
-    "cracked_version": "1.11.3",
-    "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1151640/capsule_616x353.jpg",
+    "cracked_version": "1.5.89",
+    "denuvo": false,
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2716/16b33fa9a5c7285ba86a035b4a1c5f8eb430b407eae35ffd.png",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=112233",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=143583&hilit=Horizon+Zero+Dawn%3A+Complete+Edition",
         "verified": true
       },
       {
         "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/horizon-zero-dawn/",
+        "url": "https://fitgirl-repacks.site/horizon-zero-dawn-remastered/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/horizon-zero-dawn-remastered/",
         "verified": true
       }
     ],
@@ -2409,48 +2408,23 @@
     ],
     "crack_date": "2015-06-23",
     "original_version": "1.0",
-    "cracked_version": "1.98",
+    "cracked_version": "1.6.20",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/208650/capsule_616x353.jpg",
+    "image": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-knight_promo-2048x1152-ed2be22b3f24f446534b90b122ed560d.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=45678",
-        "verified": true
-      },
-      {
-        "name": "DODI",
-        "url": "https://dodi-repacks.site/batman-arkham-knight/",
-        "verified": true
-      }
-    ],
-    "repack_available": true
-  },
-  {
-    "id": 75,
-    "name": "Total War: Warhammer III",
-    "is_cracked": true,
-    "cracked_by": [
-      {
-        "name": "STEAM PAGE",
-        "url": "https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/",
-        "verified": true
-      }
-    ],
-    "crack_date": "2022-02-17",
-    "original_version": "1.0",
-    "cracked_version": "4.0.1",
-    "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1142710/capsule_616x353.jpg",
-    "trusted_sources": [
-      {
-        "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134567",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=64300&hilit=Batman%3A+Arkham+Knight",
         "verified": true
       },
       {
         "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/total-war-warhammer-iii/",
+        "url": "https://fitgirl-repacks.site/batman-arkham-knight/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/339-batman-arkham-knight-premium-edition-v1-6-2-0-all-dlcs-multi10-dodi-repack-from-28-gb/",
         "verified": true
       }
     ],
@@ -2460,15 +2434,20 @@
     "id": 76,
     "name": "F1 23",
     "is_cracked": false,
-    "cracked_by": [],
-    "crack_date": null,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/2023650/F1_23/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2023-06-16",
     "original_version": "1.05",
     "cracked_version": null,
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2108330/capsule_616x353.jpg",
+    "image": "https://m.media-amazon.com/images/I/81oGrWzwcvL.jpg",
     "trusted_sources": [],
-    "repack_available": false,
-    "notes": "Denuvo-protected; uncracked as of October 2023."
+    "repack_available": false
   },
   {
     "id": 77,
@@ -2483,18 +2462,58 @@
     ],
     "crack_date": "2023-03-28",
     "original_version": "1.0",
-    "cracked_version": "1.1.0",
+    "cracked_version": "1.1.4",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1888930/capsule_616x353.jpg",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0719/nsB47QdrajA2tz9ZDtPX1dPr.png",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126789",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=127951&hilit=The+Last+of+Us+Part+I",
         "verified": true
       },
       {
         "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/the-last-of-us-part-i/",
+        "url": "https://fitgirl-repacks.site/the-last-of-us-part-1/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/the-last-of-us-part-i/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 75,
+    "name": "The Last of Us Part II Remastered",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/2531310/The_Last_of_Us_Part_II_Remastered/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2025-04-03",
+    "original_version": "1.0",
+    "cracked_version": "1.3.10430 +",
+    "denuvo": false,
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202312/0117/315718bce7eed62e3cf3fb02d61b81ff1782d6b6cf850fa4.png",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=41&t=145142",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/the-last-of-us-part-2-remastered/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/the-last-of-us-part-ii-remastered/",
         "verified": true
       }
     ],
@@ -2502,14 +2521,20 @@
   },
   {
     "id": 78,
-    "name": "Dead Space Remake",
+    "name": "Dead Space",
     "is_cracked": false,
-    "cracked_by": [],
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/1693980/Dead_Space/",
+        "verified": true
+      }
+    ],
     "crack_date": "2023-01-27",
     "original_version": "1.0",
-    "cracked_version": "NULL",
+    "cracked_version": null,
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1693980/capsule_616x353.jpg",
+    "image": "https://assets-prd.ignimgs.com/2023/01/25/deadspace-blogroll-1674687060495.jpg",
     "trusted_sources": [],
     "repack_available": false
   },
@@ -2528,16 +2553,21 @@
     "original_version": "1.0",
     "cracked_version": "1.38133",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/capsule_616x353.jpg",
+    "image": "https://cdn1.epicgames.com/min/offer/2560x1440-2560x1440-5e710b93049cbd2125cf0261dcfbf943.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=110123",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=94103&hilit=Hades",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/hades/",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/hades/",
+        "url": "https://dodi-repacks.site/776-hades-v35966-v1-0-soundtrack-multi10-from-4-7-gb-dodi-repack/",
         "verified": true
       }
     ],
@@ -2558,16 +2588,20 @@
     "original_version": "1.0",
     "cracked_version": "1.5.6",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/413150/capsule_616x353.jpg",
+    "image": "https://gaming-cdn.com/images/products/1767/orig/stardew-valley-pc-mac-game-steam-cover.jpg?v=1704800467",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=45678",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=70451&hilit=Stardew+Valley",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/stardew-valley/",
         "verified": true
       }
     ],
-    "repack_available": false,
-    "notes": "No repack needed due to small file size"
+    "repack_available": true
   },
   {
     "id": 81,
@@ -2582,13 +2616,19 @@
     ],
     "crack_date": "2023-09-13",
     "original_version": "1.1.3",
-    "cracked_version": "1.0",
+    "cracked_version": "1.4.3.54876 +",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2344520/capsule_616x353.jpg",
+    "online": true,
+    "image": "https://gaming-cdn.com/images/products/13392/orig/diablo-iv-xbox-one-xbox-series-x-s-game-microsoft-store-europe-cover.jpg?v=1739360716",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=101791",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=101791&hilit=Diablo+IV",
+        "verified": true
+      },
+      {
+        "name": "Reflection Network Launcher",
+        "url": "https://d3reflection.org/download",
         "verified": true
       }
     ],
@@ -2598,27 +2638,49 @@
   {
     "id": 83,
     "name": "Payday 3",
-    "is_cracked": false,
-    "cracked_by": [],
-    "crack_date": null,
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/1272080/PAYDAY_3/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2023-09-21",
     "original_version": "1.0",
-    "cracked_version": null,
-    "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1272080/capsule_616x353.jpg",
-    "trusted_sources": [],
-    "repack_available": false,
-    "notes": "Denuvo + Always-online DRM (uncracked as of Oct 2023)"
+    "cracked_version": "2.0.1",
+    "denuvo": false,
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202305/2616/ca279a1ef71cdc8df7f320e2aecdf1fee9879bf1fc2f6121.jpg",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=73135&hilit=Payday+3",
+        "verified": true
+      },
+      {
+        "name": "Online-Fix",
+        "url": "https://online-fix.me/games/shooter/17335-payday-3-po-seti.html",
+        "verified": true
+      }
+    ],
+    "repack_available": false
   },
   {
     "id": 84,
     "name": "EA Sports FC 24",
     "is_cracked": false,
-    "cracked_by": [],
-    "crack_date": null,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/2106580/EA_SPORTS_FC_24/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2023-09-29",
     "original_version": "1.0",
     "cracked_version": null,
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2195250/capsule_616x353.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2195250/f11315d7491f706b09b059d12424f711e9778b82/capsule_616x353.jpg?t=1743020121",
     "trusted_sources": [],
     "repack_available": false
   },
@@ -2630,15 +2692,15 @@
     "cracked_by": [
       {
         "name": "STEAM PAGE",
-        "url": "https://store.steampowered.com/app/588210/DREDGE/",
+        "url": "https://store.steampowered.com/app/1562430/DREDGE/",
         "verified": true
       }
     ],
-    "crack_date": null,
+    "crack_date": "2023-03-30",
     "original_version": "1.3.1",
     "cracked_version": null,
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1562430/capsule_616x353.jpg",
+    "image": "https://static.wixstatic.com/media/e609d3_dbc3f1ee8e294d579331eaa261025e4c~mv2.png/v1/fit/w_2500,h_1330,al_c/e609d3_dbc3f1ee8e294d579331eaa261025e4c~mv2.png",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
@@ -2658,12 +2720,18 @@
     "id": 89,
     "name": "Street Fighter 6",
     "is_cracked": false,
-    "cracked_by": [],
-    "crack_date": null,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/1364780/Street_Fighter_6/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2023-06-02",
     "original_version": "1.12",
     "cracked_version": null,
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1364780/capsule_616x353.jpg",
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1364780/capsule_616x353.jpg?t=1745814264",
     "trusted_sources": [],
     "repack_available": false
   },
@@ -2678,20 +2746,29 @@
         "verified": true
       }
     ],
-    "cracked_version": "1.27",
+    "cracked_version": "1.44",
     "crack_date": "2023-08-24",
     "original_version": "1.0",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1384160/capsule_616x353.jpg",
+    "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000081021/667bb56ebc5e934e243e99c9c817ed024cf86221c71f490b6dfa0b8caff3d6ae",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134567",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=107031&hilit=Guilty+Gear+Strive",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/guilty-gear-strive/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/1023-guilty-gear-strive-dlcs-multiplayer-multi9-dodi-repack/",
         "verified": true
       }
     ],
-    "repack_available": true,
-    "notes": "Denuvo removed in August 2023 patch, cracked afterward"
+    "repack_available": true
   },
 
   {
@@ -2709,86 +2786,57 @@
     "original_version": "1.0",
     "cracked_version": "1.0",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1326470/capsule_616x353.jpg",
+    "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/02/sons-of-the-forest-february-22.jpg",
     "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=102593&hilit=Sons+of+the+Forest",
+        "verified": true
+      },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/sons-of-the-forest/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/sons-of-the-forest/",
         "verified": true
       }
     ],
     "repack_available": true
   },
   {
-    "id": 92,
-    "name": "V Rising",
+    "id": 97,
+    "name": "Microsoft Flight Simulator",
     "is_cracked": true,
     "cracked_by": [
       {
         "name": "STEAM PAGE",
-        "url": "https://store.steampowered.com/app/1604030/V_Rising/",
+        "url": "https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator/",
         "verified": true
       }
     ],
-    "crack_date": "2023-05-17",
-    "original_version": "1.0",
-    "cracked_version": "1.1",
+    "crack_date": "2020-08-18",
+    "original_version": "1.19.8",
+    "cracked_version": "1.19.8 +",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1604030/capsule_616x353.jpg",
+    "online": true,
+    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1250410/capsule_616x353.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113132",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=97673&hilit=Microsoft+Flight+Simulator+2020",
         "verified": true
       },
       {
         "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/v-rising/",
+        "url": "https://fitgirl-repacks.site/microsoft-flight-simulator/",
         "verified": true
       },
       {
-        "name": "DODI",
-        "url": "https://dodi-repacks.site/v-rising/",
-        "verified": true
-      }
-
-    ],
-    "repack_available": false
-  },
-  {
-    "id": 97,
-    "name": "Microsoft Flight Simulator (2020)",
-    "is_cracked": false,
-    "cracked_by": [],
-    "crack_date": null,
-    "original_version": "1.34.16.0",
-    "cracked_version": null,
-    "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1250410/capsule_616x353.jpg",
-    "trusted_sources": [],
-    "repack_available": false,
-    "notes": "Denuvo + Azure-powered live weather makes cracking impractical"
-  },
-  {
-    "id": 98,
-    "name": "Farming Simulator 22",
-    "is_cracked": true,
-    "cracked_by": [
-      {
-        "name": "STEAM PAGE",
-        "url": "https://store.steampowered.com/app/1248130/Farming_Simulator_22/",
-        "verified": true
-      }
-    ],
-    "crack_date": "2021-11-22",
-    "original_version": "1.0",
-    "cracked_version": "1.10.1.0",
-    "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1248130/capsule_616x353.jpg",
-    "trusted_sources": [
-      {
-        "name": "DODI",
-        "url": "https://dodi-repacks.site/farming-simulator-22/",
+        "name": "Online-Fix",
+        "url": "https://online-fix.me/games/officialservers/17478-microsoft-flight-simulator-po-seti.html",
         "verified": true
       }
     ],
@@ -2828,9 +2876,6 @@
       }
     ],
     "repack_available": true
-
-
-
   },
   {
     "id": 100,
@@ -3056,6 +3101,88 @@
       }
     ],
     "repack_available": false
+  },
+  {
+    "id": 112,
+    "name": "Farming Simulator 22",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/1248130/Farming_Simulator_22/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2021-11-22",
+    "original_version": "1.0",
+    "cracked_version": "1.14.0.0 +",
+    "denuvo": false,
+    "online": true,
+    "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/725818d8-9768-4a6a-a723-3039aaee1e23_1200x1600-3b6116d3fc1b566b71251d04bce27938",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=114113&hilit=Farming+Simulator",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/farming-simulator-22/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/farming-simulator-22/",
+        "verified": true
+      },
+      {
+        "name": "Online-Fix",
+        "url": "https://online-fix.me/games/simulator/16846-farming-simulator-22-po-seti.html",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 113,
+    "name": "Farming Simulator 25",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/2300320/Farming_Simulator_25/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2024-10-15",
+    "original_version": "1.0",
+    "cracked_version": "1.8.01",
+    "denuvo": false,
+    "online": true,
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/12/farming-simulator-25-key-art.jpg",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=141739&hilit=Farming+Simulator",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/farming-simulator-25/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/farming-simulator-25/",
+        "verified": true
+      },
+      {
+        "name": "Online-Fix",
+        "url": "https://online-fix.me/games/officialservers/17628-farming-simulator-25-po-seti.html",
+        "verified": true
+      }
+    ],
+    "repack_available": true
   }
 ]
 

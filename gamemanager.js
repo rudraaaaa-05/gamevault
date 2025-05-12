@@ -34,12 +34,6 @@ class GameManager {
             case 'uncracked':
                 this.filteredGames = this.games.filter(g => !g.is_cracked);
                 break;
-            case 'denuvo':
-                this.filteredGames = this.games.filter(g => g.denuvo);
-                break;
-            case 'repack':
-                this.filteredGames = this.games.filter(g => g.repack_available);
-                break;
             case 'online':
                 this.filteredGames = this.games.filter(g => g.online);
                 break;
