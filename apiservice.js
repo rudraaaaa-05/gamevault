@@ -29,6 +29,7 @@ class APIService {
                 image: game.image ? this.resolveImagePath(game.image) : '',
                 trusted_sources: this.ensureArray(game.trusted_sources),
                 repack_available: Boolean(game.repack_available),
+                online: Boolean(game.online),
                 nsfw: Boolean(game.nsfw),
                 online_tutorial: game.online_tutorial || null
             }));
@@ -63,6 +64,7 @@ class APIService {
             image: 'img/fallback.png',
             trusted_sources: [],
             repack_available: true,
+            online: false,
             nsfw: false
         }];
     }

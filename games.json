@@ -1564,11 +1564,16 @@
     "original_version": "1.0",
     "cracked_version": "1.0.0.196",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/204100/capsule_616x353.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/204100/capsule_616x353.jpg?t=1718391374",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=34567",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=61306&hilit=Max+Payne+3",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/max-payne-3/",
         "verified": true
       },
       {
@@ -1592,18 +1597,18 @@
     ],
     "crack_date": "2005-06-07",
     "original_version": "1.0",
-    "cracked_version": "2.0",
+    "cracked_version": "1.0.22",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/12120/capsule_616x353.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1547000/capsule_616x353.jpg?t=1741117455",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=12345",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=76526&hilit=Grand+Theft+Auto%3A+San+Andreas",
         "verified": true
       },
       {
-        "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/gta-san-andreas/",
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/grand-theft-auto-san-andreas/",
         "verified": true
       }
     ],
@@ -1623,18 +1628,58 @@
     ],
     "crack_date": "2016-10-28",
     "original_version": "1.0",
-    "cracked_version": "1.6.1130",
+    "cracked_version": "1.6.353.0",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/489830/capsule_616x353.jpg",
+    "image": "https://sm.ign.com/t/ign_de/screenshot/default/maxresdefault_bemr.1280.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=67890",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=60647&hilit=The+Elder+Scrolls+V%3A+Skyrim+Special+Edition",
         "verified": true
       },
       {
         "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/skyrim-se/",
+        "url": "https://fitgirl-repacks.site/elder-scrolls-skyrim-special-edition/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/elder-scrolls-v-skyrim-special-edition/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 50,
+    "name": "The Elder Scrolls V: Skyrim Anniversary Edition",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2021-11-11",
+    "original_version": "1.0",
+    "cracked_version": "1.6.318.0.8",
+    "denuvo": false,
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2614/HeThWgh3BEprfTpMgXBiV1lD.png",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=60647&hilit=The+Elder+Scrolls+V%3A+Skyrim+Special+Edition",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/the-elder-scrolls-v-skyrim-anniversary-edition/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/1203-the-elder-scrolls-v-skyrim-anniversary-edition-v1-6-318-0-8-all-dlcs-all-mods-bonus-contents-multi9-from-11-5-gb-dodi-repack/",
         "verified": true
       }
     ],
@@ -1653,18 +1698,144 @@
     ],
     "crack_date": "2015-11-09",
     "original_version": "1.0",
-    "cracked_version": "1.10.163",
+    "cracked_version": "1.10.984",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/377160/capsule_616x353.jpg",
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2500/4GZyUQ1bHTjICP6GCRG7f65n.png",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=78901",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=69807&hilit=Fallout+4",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/fallout-4/",
         "verified": true
       },
       {
         "name": "DODI",
         "url": "https://dodi-repacks.site/fallout-4/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 107,
+    "name": "Fallout 76",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/1151340/Fallout_76/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2018-11-14",
+    "original_version": "1.0",
+    "cracked_version": "1.0.4",
+    "denuvo": false,
+    "online": true,
+    "image": "https://images.ctfassets.net/rporu91m20dc/161g6mFBk9YRsXzYvJgLok/07a49aeb9d9b31a483ff73a47e86a2c1/Fallout76-SteelDawn_Campaign_Art.jpg?w=1066&h=600&fit=thumb",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=89640",
+        "verified": true
+      },
+      {
+        "name": "Online-Fix",
+        "url": "https://online-fix.me/games/sandbox/17313-fallout-76-po-seti.html",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 108,
+    "name": "Fallout 3: Game of the Year Edition",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/223710/Fallout_3_Game_of_the_Year_Edition/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2009-10-13",
+    "original_version": "1.0",
+    "cracked_version": "1.7",
+    "denuvo": false,
+    "image": "https://gaming-cdn.com/images/products/771/orig/fallout-3-goty-edition-goty-edition-pc-game-steam-cover.jpg?v=1742469657",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=73670",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/fallout-3/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/1153-fallout-3-game-of-the-year-edition-dodi-repack/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 109,
+    "name": "Fallout: New Vegas",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/22380/Fallout_New_Vegas/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2010-10-19",
+    "original_version": "1.0",
+    "cracked_version": "1.4",
+    "denuvo": false,
+    "image": "https://sm.ign.com/t/ign_in/feature/t/the-fallou/the-fallout-game-you-need-to-play-while-you-wait-for-season_j71k.1200.jpg",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=63927",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/fallout-new-vegas-ultimate-edition/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 110,
+    "name": "Fallout Shelter",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/588430/Fallout_Shelter/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2015-06-14",
+    "original_version": "1.0",
+    "cracked_version": "1.0.2",
+    "denuvo": false,
+    "image": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000008661/9da4158e053625c86c36e495abffe6952e6caf494e4af5c849d95d9c23dbdcb5",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=72720",
         "verified": true
       }
     ],
@@ -1823,18 +1994,29 @@
     ],
     "crack_date": "2021-11-09",
     "original_version": "1.0",
-    "cracked_version": "1.573.834.0",
+    "cracked_version": "1.683.258 +",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/capsule_616x353.jpg",
+    "online": true,
+    "image": "https://image.api.playstation.com/vulcan/ap/rnd/202502/1900/631436cfbc1d64659c778e3783f29fafad6022145e0ffec8.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123456",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=113901&hilit=forza+horizon+5",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/forza-horizon-5/",
         "verified": true
       },
       {
         "name": "DODI",
         "url": "https://dodi-repacks.site/forza-horizon-5/",
+        "verified": true
+      },
+      {
+        "name": "Online-Fix",
+        "url": "https://online-fix.me/games/racing/16828-forza-horizon-5-po-seti.html",
         "verified": true
       }
     ],
@@ -1853,18 +2035,29 @@
     ],
     "crack_date": "2021-03-10",
     "original_version": "1.0",
-    "cracked_version": "1.476.400.0",
+    "cracked_version": "1.476.99.0 +",
     "denuvo": true,
+    "online": true,
     "image": "https://cdn.akamai.steamstatic.com/steam/apps/1293830/capsule_616x353.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=112233",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=90060",
         "verified": true
       },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/forza-horizon-4/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/429-forza-horizon-4-ultimate-edition-v1-332-904-2-all-expansions-missing-dlc-multi16-dodi-repack-from-44-3-gb/",
+        "verified": true
+      },
+      {
+        "name": "Online-Fix",
+        "url": "https://online-fix.me/games/racing/16597-forza-horizon-4-po-seti.html",
         "verified": true
       }
     ],
@@ -1937,24 +2130,76 @@
     "cracked_by": [
       {
         "name": "Microsoft Store Page",
-        "url": "https://www.microsoft.com/en-us/p/forza-motorsport-7/9n2vhw1wxtbm",
+        "url": "https://www.xbox.com/en-IN/games/store/forza-motorsport-7/9NBLGGH4TNRT/0010",
         "verified": true
       }
     ],
     "crack_date": "2021-06-15",
     "original_version": "1.0",
-    "cracked_version": "1.177.678.0",
+    "cracked_version": "1.174.4791.2 +",
     "denuvo": true,
+    "online": true,
     "image": "https://gaming-cdn.com/images/products/11293/orig/forza-motorsport-7-xbox-one-pc-game-microsoft-store-united-states-cover.jpg?v=1740500651",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=145678",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=81361",
         "verified": true
       },
       {
         "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/forza-motorsport-7/",
+        "url": "https://fitgirl-repacks.site/forza-motorsport-7-ultimate-edition/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/1281-forza-motorsport-7-ultimate-edition-v1-174-4791-2-all-dlcs-multiplayer-multi27-fast-install-dodi-repack/",
+        "verified": true
+      },
+      {
+        "name": "Online-Fix",
+        "url": "https://online-fix.me/games/racing/16949-forza-motorsport-7-po-seti.html",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 111,
+    "name": "Forza Motorsport",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "STEAM PAGE",
+        "url": "https://store.steampowered.com/app/2440510/Forza_Motorsport/",
+        "verified": true
+      }
+    ],
+    "crack_date": "2023-10-10",
+    "original_version": "1.0",
+    "cracked_version": "1.488.4138.0 +",
+    "denuvo": true,
+    "online": true,
+    "image": "https://cms-assets.xboxservices.com/assets/30/7c/307c168b-ca18-49a3-999d-2b96d1a91666.jpg?n=Forza-Motrosport_GLP-Page-Hero-0_20th-Anniversary_1083x1222.jpg",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=106880",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/forza-motorsport/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/forza-motorsport/",
+        "verified": true
+      },
+      {
+        "name": "Online-Fix",
+        "url": "https://online-fix.me/games/racing/17347-forza-motorsport-po-seti.html",
         "verified": true
       }
     ],
@@ -2033,18 +2278,29 @@
     ],
     "crack_date": "2020-05-12",
     "original_version": "1.0",
-    "cracked_version": "1.0.119.1002",
+    "cracked_version": "1.0.125.2",
     "denuvo": true,
+    "online": true,
     "image": "https://winblogs.thesourcemediaassets.com/2016/09/Forza-Horizon-3.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=156789",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=72399",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/forza-horizon-3/",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/forza-horizon-3/",
+        "url": "https://dodi-repacks.site/379-forza-horizon-3-v1-0-119-1002-44-dlcs-multi13-dodi-repack/",
+        "verified": true
+      },
+      {
+        "name": "Online-Fix",
+        "url": "https://online-fix.me/games/racing/16948-forza-horizon-3-po-seti.html",
         "verified": true
       }
     ],

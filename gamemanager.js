@@ -40,6 +40,9 @@ class GameManager {
             case 'repack':
                 this.filteredGames = this.games.filter(g => g.repack_available);
                 break;
+            case 'online':
+                this.filteredGames = this.games.filter(g => g.online);
+                break;
             case 'nsfw':
                 this.filteredGames = this.games.filter(g => g.nsfw);
                 break;

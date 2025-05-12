@@ -74,6 +74,7 @@ class UIManager {
                     </div>
                     ${game.denuvo ? '<div class="denuvo-badge"><i class="fas fa-shield-alt"></i> DENUVO</div>' : ''}
                     ${game.repack_available ? '<div class="repack-badge"><i class="fas fa-archive"></i> REPACK</div>' : ''}
+                    ${game.online ? '<div class="online-badge"><i class="fas fa-globe"></i> ONLINE</div>' : ''}
                     ${game.nsfw ? '<div class="nsfw-badge"><i class="fas fa-exclamation-triangle"></i> NSFW</div>' : ''}
                 </div>
                 <div class="game-details">
@@ -120,6 +121,7 @@ class UIManager {
                         </div>
                         ${game.denuvo ? '<div class="denuvo-badge"><i class="fas fa-shield-alt"></i> DENUVO</div>' : ''}
                         ${game.repack_available ? '<div class="repack-badge"><i class="fas fa-archive"></i> REPACK</div>' : ''}
+                        ${game.online ? '<div class="online-badge"><i class="fas fa-globe"></i> ONLINE</div>' : ''}
                         ${game.nsfw ? '<div class="nsfw-badge"><i class="fas fa-exclamation-triangle"></i> NSFW</div>' : ''}
                     </div>
                 </div>
