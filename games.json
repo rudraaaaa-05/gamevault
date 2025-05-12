@@ -372,7 +372,7 @@
     "original_version": "1.0",
     "cracked_version": "v1.5.1",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/582160/capsule_616x353.jpg",
+    "image": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12001_EGST_BannerBundle_STD_US_Edition_Capsule_1920X1080-1920x1080-1fc629970a67d3ec95dbce7f08c0a790c0263482.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
@@ -402,7 +402,7 @@
     "original_version": "1.0",
     "cracked_version": "1.51",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/368500/capsule_616x353.jpg",
+    "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/0220/y7N5IayWNS7e008hUsfgPkh1.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
@@ -433,7 +433,7 @@
     "original_version": "1.0",
     "cracked_version": "1.5.0",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/289650/capsule_616x353.jpg",
+    "image": "https://image.api.playstation.com/cdn/UP0001/CUSA00663_00/arnlFWX6Y6ZlGyCCYWmth94Shtw44kON.png",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
@@ -468,7 +468,7 @@
     "original_version": "1.0",
     "cracked_version": "1.1.0",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/311560/capsule_616x353.jpg",
+    "image": "https://www.thefandomentals.com/wp-content/uploads/2022/07/acrougecover_1000x600.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
@@ -498,7 +498,7 @@
     "original_version": "1.0",
     "cracked_version": "1.07",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/242050/capsule_616x353.jpg",
+    "image": "https://image.api.playstation.com/cdn/UP0001/CUSA00010_00/US4NCAJYPPkVtniLblOOTn0G4Uy293sB.png",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
@@ -533,7 +533,7 @@
     "original_version": "1.0",
     "cracked_version": "1.03",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/911400/capsule_616x353.jpg",
+    "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000010684/e3067db27e695b489f16de14d650c1c487dcf54bc9bfbbea2510f7acc9a2d57e",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
@@ -563,7 +563,7 @@
     "original_version": "1.0",
     "cracked_version": "1.01",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/33230/capsule_616x353.jpg",
+    "image": "https://cdn2.unrealengine.com/ac2-gamename-store-landscape-2560x1440-2560x1440-aa944fa0e8c6.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
@@ -593,7 +593,7 @@
     "original_version": "1.0",
     "cracked_version": "1.03",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/48190/capsule_616x353.jpg",
+    "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7IKbn9vVFc1N4ZuPgJhCXF/1a9ab1728b37753a3873eaebbdb6736d/ac-brotherhood-hero.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
@@ -623,7 +623,7 @@
     "original_version": "1.0",
     "cracked_version": "1.03",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/201870/capsule_616x353.jpg",
+    "image": "https://wallpapers.com/images/hd/assassin-s-creed-revelations-1280-x-800-wallpaper-z981he8nnrtckyhl.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
@@ -653,16 +653,21 @@
     "original_version": "1.0",
     "cracked_version": "1.011",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/552520/capsule_616x353.jpg",
+    "image": "https://www.well-played.com.au/wp-content/uploads/2018/03/Far-Cry%C2%AE-5_20180326225209.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=78901",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=80742&hilit=far+cry+5",
         "verified": true
       },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/far-cry-5/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/194-far-cry-5-gold-edition-v-1-011-all-dlcs-multi15-map-editor-hd-pack-dodi-repack-selective-download-from-26-2-gb/",
         "verified": true
       }
     ],
@@ -681,18 +686,23 @@
     ],
     "crack_date": "2019-02-15",
     "original_version": "1.0",
-    "cracked_version": "1.03",
+    "cracked_version": "1.05",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/939960/capsule_616x353.jpg",
+    "image": "https://image.api.playstation.com/cdn/EP0001/CUSA13885_00/agZs9Kf47XFDfj9GRaJihndGI9ZzvodE.png",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=89012",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=94097&hilit=Far+Cry+New+Dawn",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/far-cry-new-dawn/",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/far-cry-new-dawn/",
+        "url": "https://dodi-repacks.site/646-far-cry-new-dawn-deluxe-edition-v1-0-5-all-dlcs-hd-texture-pack-multi15-from-14-3-gb-dodi-repack/",
         "verified": true
       }
     ],
@@ -713,16 +723,21 @@
     "original_version": "1.0",
     "cracked_version": "1.3.3",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/371660/capsule_616x353.jpg",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/371660/capsule_616x353.jpg?t=1694554883",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=56789",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=69179&hilit=Far+Cry+Primal",
         "verified": true
       },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/far-cry-primal/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/228-far-cry-primal-apex-edition-v1-3-3-all-dlcs-ultra-hd-textures-multi19-dodi-repack-selective-download-from-9-4-gb/",
         "verified": true
       }
     ],
@@ -743,16 +758,21 @@
     "original_version": "1.0",
     "cracked_version": "1.10",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/298110/capsule_616x353.jpg",
+    "image": "https://image.api.playstation.com/cdn/EP0001/CUSA00462_00/eWb8JxERVXKknf0yXpNCELiNyS0onpwH.png",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=45678",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=64703&hilit=Far+Cry+4",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/far-cry-4/",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/far-cry-4/",
+        "url": "https://dodi-repacks.site/381-far-cry-4-gold-edition-v1-10-all-dlcs-multi16-dodi-repack-from-13-9-gb/",
         "verified": true
       }
     ],
@@ -771,18 +791,23 @@
     ],
     "crack_date": "2012-11-29",
     "original_version": "1.0",
-    "cracked_version": "1.05",
+    "cracked_version": "1.02",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/220240/capsule_616x353.jpg",
+    "image": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2022/02/Vaas-Montenegro-Pose.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=34567",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=62000&hilit=Far+Cry+3",
         "verified": true
       },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/far-cry-3/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/far-cry-3/",
         "verified": true
       }
     ],
@@ -803,16 +828,11 @@
     "original_version": "1.0",
     "cracked_version": "1.02",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/233270/capsule_616x353.jpg",
+    "image": "https://store-images.s-microsoft.com/image/apps.56196.70027501651560755.1fa386ca-5863-4347-aabc-e00877df6c60.4540c21d-5298-4704-9b6d-6f33785e1f4a?q=90&w=480&h=270",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=23456",
-        "verified": true
-      },
-      {
-        "name": "DODI",
-        "url": "https://dodi-repacks.site/far-cry-3-blood-dragon/",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=75462&hilit=Far+Cry+3",
         "verified": true
       }
     ],
@@ -833,16 +853,16 @@
     "original_version": "1.0",
     "cracked_version": "1.03",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/19900/capsule_616x353.jpg",
+    "image": "https://cdn2.unrealengine.com/fc-fc2-store-landscape-2560x1440-2560x1440-ff6dea297bad.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=12345",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=75461&hilit=Far+Cry+2",
         "verified": true
       },
       {
-        "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/far-cry-2/",
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/242-far-cry-2-fortunes-edition-v-1-3-all-dlcs-multi5-from-2-gb-dodi-repack/",
         "verified": true
       }
     ],
@@ -863,11 +883,11 @@
     "original_version": "1.0",
     "cracked_version": "1.4",
     "denuvo": false,
-    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/13520/header.jpg",
+    "image": "https://cdn2.unrealengine.com/gamename-store-landscape-2560x1440-2560x1440-606256535.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=67890",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=75460&hilit=Far+Cry+2",
         "verified": true
       },
       {
@@ -893,16 +913,21 @@
     "original_version": "1.0",
     "cracked_version": "1.15",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/374320/capsule_616x353.jpg",
+    "image": "https://gamobo.wordpress.com/wp-content/uploads/2016/05/cover.jpg?w=1200&h=650&crop=1",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=62817",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=68091&hilit=Dark+Souls+III",
         "verified": true
       },
       {
         "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/dark-souls-iii/",
+        "url": "https://fitgirl-repacks.site/dark-souls-3/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/1159-dark-souls-iii-deluxe-edition-v1-15-all-dlcs-ost-multi12-from-19-3-gb-dodi-repack/",
         "verified": true
       }
     ],
@@ -923,46 +948,21 @@
     "original_version": "1.0",
     "cracked_version": "1.12",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/335300/capsule_616x353.jpg",
+    "image": "https://www.overloadgames.com.br/img/reviews/dark-souls-2-o-jogo-que-e-amado-por-uns-e-odiado-por-outros/dark-souls-2-o-jogo-que-e-amado-por-uns-e-odiado-por-outros.webp",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=56789",
-        "verified": true
-      },
-      {
-        "name": "DODI",
-        "url": "https://dodi-repacks.site/dark-souls-ii-scholar-of-the-first-sin/",
-        "verified": true
-      }
-    ],
-    "repack_available": true
-  },
-  {
-    "id": 31,
-    "name": "Dark Souls Remastered",
-    "is_cracked": true,
-    "cracked_by": [
-      {
-        "name": "STEAM PAGE",
-        "url": "https://store.steampowered.com/app/570940/DARK_SOULS_REMASTERED/",
-        "verified": true
-      }
-    ],
-    "crack_date": "2018-05-23",
-    "original_version": "1.0",
-    "cracked_version": "1.04",
-    "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/570940/capsule_616x353.jpg",
-    "trusted_sources": [
-      {
-        "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=78901",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=64169&hilit=Dark+Souls+II%3A+Scholar+of+the+First+Sin",
         "verified": true
       },
       {
         "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/dark-souls-remastered/",
+        "url": "https://fitgirl-repacks.site/dark-souls-2-scholar-of-the-first-sin/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/1158-dark-souls-ii-scholar-of-the-first-sin-v1-02-all-dlcs-multi10-dodi-repack/",
         "verified": true
       }
     ],
@@ -983,16 +983,21 @@
     "original_version": "1.0",
     "cracked_version": "1.06",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/814380/capsule_616x353.jpg",
+    "image": "https://i0.wp.com/twistedvoxel.com/wp-content/uploads/2019/03/sekiro-shadows-die-twice-review.jpg?fit=1920%2C1080&ssl=1",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=89012",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=90059&hilit=Sekiro",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/sekiro-shadows-die-twice/",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/sekiro-shadows-die-twice/",
+        "url": "https://dodi-repacks.site/662-sekiro-shadows-die-twice-v-1-04-bonus-content-multi13-from-8-7-gb-dodi-repack/",
         "verified": true
       }
     ],
@@ -1012,48 +1017,23 @@
     ],
     "crack_date": "2021-02-05",
     "original_version": "1.0",
-    "cracked_version": "1.28",
+    "cracked_version": "1.25",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1325200/capsule_616x353.jpg",
+    "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/0623/OKKpWNnsCZpURW2N6nnhMcj6.png",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=112233",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=110237&hilit=Nioh+2",
         "verified": true
       },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/nioh-2/",
         "verified": true
-      }
-    ],
-    "repack_available": true
-  },
-  {
-    "id": 36,
-    "name": "Nioh: Complete Edition",
-    "is_cracked": true,
-    "cracked_by": [
-      {
-        "name": "STEAM PAGE",
-        "url": "https://store.steampowered.com/app/485510/Nioh_Complete_Edition/",
-        "verified": true
-      }
-    ],
-    "crack_date": "2017-11-07",
-    "original_version": "1.0",
-    "cracked_version": "1.24",
-    "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/485510/capsule_616x353.jpg",
-    "trusted_sources": [
-      {
-        "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=62345",
-        "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/nioh-complete-edition/",
+        "url": "https://dodi-repacks.site/924-nioh-2-the-complete-edition-v1-25-all-dlcs-win-7-fix-multiplayer-multi14-dodi-repack/",
         "verified": true
       }
     ],
@@ -1072,18 +1052,23 @@
     ],
     "crack_date": "2023-10-13",
     "original_version": "1.0",
-    "cracked_version": "1.1.310",
+    "cracked_version": "1.6.49",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1501750/capsule_616x353.jpg",
+    "image": "https://media.nichegamer.com/wp-content/uploads/2025/02/Lords-of-the-Fallen-Review-19.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126789",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=107724&hilit=Lords+of+the+Fallen",
         "verified": true
       },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/lords-of-the-fallen-2023/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/lords-of-the-fallen/",
         "verified": true
       }
     ],
@@ -1102,18 +1087,23 @@
     ],
     "crack_date": "2019-09-24",
     "original_version": "1.0",
-    "cracked_version": "1.06",
+    "cracked_version": "1.09",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/644830/capsule_616x353.jpg",
+    "image": "https://gaming-cdn.com/images/products/4825/orig/the-surge-2-pc-game-steam-cover.jpg?v=1650985609",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=102345",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=86858&hilit=The+Surge+2",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/the-surge-2/",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/the-surge-2/",
+        "url": "https://dodi-repacks.site/506-the-surge-2-v1-09-update-5-all-dlcs-multi13-dodi-repack/",
         "verified": true
       }
     ],
@@ -1138,7 +1128,7 @@
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=67890",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=70849&hilit=The+Surge+2",
         "verified": true
       },
       {
@@ -1164,16 +1154,21 @@
     "original_version": "1.0",
     "cracked_version": "1.10",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1110910/capsule_616x353.jpg",
+    "image": "https://cdn1.epicgames.com/salesEvent/salesEvent/066a34b0-e1dc-4eee-87f9-42b95d5238c6_2560x1440-60b72b7b1479ebafc188502d441c3ee5",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115678",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=104575&hilit=Mortal+Shell",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/mortal-shell/",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/mortal-shell/",
+        "url": "https://dodi-repacks.site/737-mortal-shell-build-0-8-16-20-revision-1-09202-multi13-dodi-repack/",
         "verified": true
       }
     ],
@@ -1194,16 +1189,21 @@
     "original_version": "1.0",
     "cracked_version": "1.08",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/638970/capsule_616x353.jpg",
+    "image": "https://assets1.ignimgs.com/thumbs/userUploaded/2020/10/5/yakuza-0-br-1601933302487.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=78901",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=90100&hilit=Yakuza+0",
         "verified": true
       },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/yakuza-0/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/213-yakuza-0-update-2-digital-content-dodi-repack/",
         "verified": true
       }
     ],
@@ -1224,16 +1224,16 @@
     "original_version": "1.0",
     "cracked_version": "1.08",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/834530/capsule_616x353.jpg",
+    "image": "https://gaming-cdn.com/images/products/12331/orig/yakuza-kiwami-xbox-one-game-microsoft-store-united-states-cover.jpg?v=1741184918",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=89012",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=90099",
         "verified": true
       },
       {
-        "name": "DODI",
-        "url": "https://dodi-repacks.site/yakuza-kiwami/",
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/yakuza-kiwami/",
         "verified": true
       }
     ],
@@ -1254,16 +1254,21 @@
     "original_version": "1.0",
     "cracked_version": "1.06",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/927380/capsule_616x353.jpg",
+    "image": "https://i.gadgets360cdn.com/large/yakuza_kiwami_2_cover_1535028960283.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=102345",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=95999",
         "verified": true
       },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/yakuza-kiwami-2/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/349-yakuza-kiwami-2-dodi-repack/",
         "verified": true
       }
     ],
@@ -1284,16 +1289,21 @@
     "original_version": "1.0",
     "cracked_version": "1.02",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1088710/capsule_616x353.jpg",
+    "image": "https://cdn.dlcompare.com/others_jpg/upload/news/image/yakuza-3-remastered-collector-s-628dd145-image-48741d115.jpg.webp",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=115678",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=110678",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/yakuza-3-remastered/",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/yakuza-3-remastered/",
+        "url": "https://dodi-repacks.site/911-yakuza-3-remastered-multi4-dodi-repack/",
         "verified": true
       }
     ],
@@ -1314,16 +1324,21 @@
     "original_version": "1.0",
     "cracked_version": "1.02",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1105500/capsule_616x353.jpg",
+    "image": "https://store-images.s-microsoft.com/image/apps.57797.14426508489866901.a44eacfe-7e1e-495c-8aa4-17ccfbaa45e8.69580778-9fdb-4216-b4a7-8fe701875340?h=862&format=jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=126789",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=110678",
         "verified": true
       },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/yakuza-4-remastered/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/912-yakuza-4-remastered-multi4-dodi-repack/",
         "verified": true
       }
     ],
@@ -1344,16 +1359,21 @@
     "original_version": "1.0",
     "cracked_version": "1.02",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1105510/capsule_616x353.jpg",
+    "image": "https://images.gog-statics.com/7b4847a0d98a9659250dc2c8bbca4e28064704bb95f44406a7b8b4bfbf550f91_product_card_v2_mobile_slider_639.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=134567",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=110678",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/yakuza-5-remastered/",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/yakuza-5-remastered/",
+        "url": "https://dodi-repacks.site/913-yakuza-5-remastered-multi4-dodi-repack/",
         "verified": true
       }
     ],
@@ -1372,18 +1392,23 @@
     ],
     "crack_date": "2021-03-25",
     "original_version": "1.0",
-    "cracked_version": "1.06",
+    "cracked_version": "1.0.1.12",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1388590/capsule_616x353.jpg",
+    "image": "https://gepig.com/game_cover_460w/6794.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=123456",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=91386",
         "verified": true
       },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/yakuza-6/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/968-yakuza-6-the-song-of-life-v1-0-12-0-dlc-multi3-dodi-repack/",
         "verified": true
       }
     ],
@@ -1402,49 +1427,23 @@
     ],
     "crack_date": "2020-11-10",
     "original_version": "1.0",
-    "cracked_version": "1.15",
+    "cracked_version": "1.09",
     "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/1235140/capsule_616x353.jpg",
+    "image": "https://store-images.s-microsoft.com/image/apps.29145.14427542363794747.182f58ca-3a24-4a65-93bd-cdd320a35776.d3800c18-f897-458a-8b39-a337fb55f00d?q=90&w=480&h=270",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=112233",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=105234&hilit=Yakuza%3A+Like+a+Dragon",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/yakuza-like-a-dragon/",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/yakuza-like-a-dragon/",
-        "verified": true
-      }
-    ],
-    "repack_available": true
-  },
-  
-  {
-    "id": 50,
-    "name": "Lost Judgment",
-    "is_cracked": true,
-    "cracked_by": [
-      {
-        "name": "STEAM PAGE",
-        "url": "https://store.steampowered.com/app/2058180/Lost_Judgment/",
-        "verified": true
-      }
-    ],
-    "crack_date": "2022-09-14",
-    "original_version": "1.0",
-    "cracked_version": "1.10",
-    "denuvo": true,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/2058180/capsule_616x353.jpg",
-    "trusted_sources": [
-      {
-        "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=156789",
-        "verified": true
-      },
-      {
-        "name": "DODI",
-        "url": "https://dodi-repacks.site/lost-judgment/",
+        "url": "https://dodi-repacks.site/1016-yakuza-like-a-dragon-legendary-hero-edition-build-6514770-all-dlcs-multi11-from-20-3-gb-empress-dodi-repack/",
         "verified": true
       }
     ],
@@ -1463,18 +1462,23 @@
     ],
     "crack_date": "2015-04-14",
     "original_version": "1.0",
-    "cracked_version": "1.67",
+    "cracked_version": "1.0.3411",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/271590/capsule_616x353.jpg",
+    "image": "https://assets.xboxservices.com/assets/0b/17/0b179504-412d-4af7-9e00-3e3d92633577.jpg?n=GTA-V_GLP-Page-Hero-1084_1920x1080.jpg",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=62345",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=67450&hilit=Grand+Theft+Auto+V",
         "verified": true
       },
       {
         "name": "FitGirl",
         "url": "https://fitgirl-repacks.site/grand-theft-auto-v/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/grand-theft-auto-v/",
         "verified": true
       }
     ],
@@ -1499,12 +1503,17 @@
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=45678",
+        "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/12210/capsule_616x353.jpg?t=1721061564",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/grand-theft-auto-iv-complete-edition/",
         "verified": true
       },
       {
         "name": "DODI",
-        "url": "https://dodi-repacks.site/gta-iv-complete-edition/",
+        "url": "https://dodi-repacks.site/589-grand-theft-auto-iv-the-complete-edition-v1-2-0-32-all-dlcs-multi7-dodi-repack/",
         "verified": true
       }
     ],
@@ -1525,16 +1534,16 @@
     "original_version": "1.0",
     "cracked_version": "1.2",
     "denuvo": false,
-    "image": "https://cdn.akamai.steamstatic.com/steam/apps/12200/capsule_616x353.jpg",
+    "image": "https://store-images.s-microsoft.com/image/apps.22912.66873235889732843.685adf61-8959-427d-8c3e-e4a5ef4bf7f5.430d3a55-1a75-4b7a-8bd0-021b167285a1?q=90&w=480&h=270",
     "trusted_sources": [
       {
         "name": "CS.RIN.RU",
-        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=23456",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=70482&hilit=Bully",
         "verified": true
       },
       {
-        "name": "FitGirl",
-        "url": "https://fitgirl-repacks.site/bully-scholarship-edition/",
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/bully-scholarship-edition",
         "verified": true
       }
     ],
@@ -2709,7 +2718,7 @@
         "verified": true
       }
     ],
-    "crack_date": "2023-10-01",
+    "crack_date": "2022-06-21",
     "original_version": "1.0",
     "cracked_version": "1.0",
     "nsfw": true,
@@ -2741,7 +2750,7 @@
         "verified": true
       }
     ],
-    "crack_date": "2023-10-01",
+    "crack_date": "2024-12-02",
     "original_version": "1.0",
     "cracked_version": "1.0",
     "nsfw": true,
@@ -2772,7 +2781,7 @@
         "verified": true
       }
     ],
-    "crack_date": "2023-10-01",
+    "crack_date": "2023-12-21",
     "original_version": "1.0",
     "cracked_version": "1.0",
     "nsfw": true,
