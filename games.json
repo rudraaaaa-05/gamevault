@@ -2666,26 +2666,6 @@
     "repack_available": false
   },
   {
-    "id": 84,
-    "name": "EA Sports FC 24",
-    "is_cracked": false,
-    "cracked_by": [
-      {
-        "name": "STEAM PAGE",
-        "url": "https://store.steampowered.com/app/2106580/EA_SPORTS_FC_24/",
-        "verified": true
-      }
-    ],
-    "crack_date": "2023-09-29",
-    "original_version": "1.0",
-    "cracked_version": null,
-    "denuvo": true,
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2195250/f11315d7491f706b09b059d12424f711e9778b82/capsule_616x353.jpg?t=1743020121",
-    "trusted_sources": [],
-    "repack_available": false
-  },
-
-  {
     "id": 85,
     "name": "Dredge",
     "is_cracked": true,
@@ -3183,6 +3163,316 @@
       }
     ],
     "repack_available": true
+  },
+  {
+    "id": 114,
+    "name": "FIFA 14",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "EA SPORTS",
+        "url": "https://www.ea.com/games/fifa",
+        "verified": true
+      }
+    ],
+    "crack_date": "2013-09-24",
+    "original_version": "1.0",
+    "cracked_version": "1.7.0.0",
+    "denuvo": true,
+    "image": "https://img.opencritic.com/game/318/k5uHkVQS.jpg",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=63608&hilit=Fifa",
+        "verified": true
+      }
+    ],
+    "repack_available": false
+  },
+  {
+    "id": 115,
+    "name": "FIFA 15",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "EA SPORTS",
+        "url": "https://www.ea.com/games/fifa",
+        "verified": true
+      }
+    ],
+    "crack_date": "2014-09-23",
+    "original_version": "1.0",
+    "cracked_version": "1.0",
+    "denuvo": true,
+    "image": "https://images7.alphacoders.com/539/539179.jpg",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=15&t=65430&hilit=Fifa",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/fifa-15-ultimate-team-edition/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 116,
+    "name": "FIFA 16",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "EA SPORTS",
+        "url": "https://www.ea.com/games/fifa",
+        "verified": true
+      }
+    ],
+    "crack_date": "2015-09-22",
+    "original_version": "1.0",
+    "cracked_version": "16.0.2904053",
+    "denuvo": true,
+    "image": "https://img.redbull.com/images/c_limit,w_1500,h_1000/f_auto,q_auto/redbullcom/2015/09/28/1331750457416_2/fifa-16-world-beating-career-mode-wonderkid-xi",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=68815&hilit=Fifa",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/fifa-16/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/fifa-16/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 117,
+    "name": "FIFA 17",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "EA SPORTS",
+        "url": "https://www.ea.com/games/fifa",
+        "verified": true
+      }
+    ],
+    "crack_date": "2016-09-27",
+    "original_version": "1.0",
+    "cracked_version": "1.0",
+    "denuvo": true,
+    "image": "https://img.redbull.com/images/c_limit,w_1500,h_1000/f_auto,q_auto/redbullcom/2016/09/20/1331818914269_2/marco-reus-is-the-cover-star-of-fifa-17",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=73012&hilit=Fifa",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/fifa-17/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 118,
+    "name": "FIFA 18",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "EA SPORTS",
+        "url": "https://www.ea.com/games/fifa",
+        "verified": true
+      }
+    ],
+    "crack_date": "2017-09-29",
+    "original_version": "1.0",
+    "cracked_version": "1.0",
+    "denuvo": true,
+    "image": "https://miro.medium.com/v2/resize:fit:1200/1*oPnNzcHynQNhpCmip8JDBA.png",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=81238&hilit=Fifa",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/fifa-18/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 119,
+    "name": "FIFA 19",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "EA SPORTS",
+        "url": "https://www.ea.com/games/fifa",
+        "verified": true
+      }
+    ],
+    "crack_date": "2018-09-28",
+    "original_version": "1.0",
+    "cracked_version": "11.30.2018",
+    "denuvo": true,
+    "image": "https://assets.goal.com/images/v3/blt81faa8f328082594/95c6404c105923fa7bbef74d30adb35786fa2499.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=38&t=90051&hilit=Fifa",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/fifa-19/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/fifa-19/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 120,
+    "name": "FIFA 20",
+    "is_cracked": false,
+    "cracked_by": [
+      {
+        "name": "EA SPORTS",
+        "url": "https://www.ea.com/games/fifa",
+        "verified": true
+      }
+    ],
+    "crack_date": "2019-09-27",
+    "original_version": "1.0",
+    "cracked_version": "1.0",
+    "denuvo": true,
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2019/09/FIFA-20-Cover-Art.jpg",
+    "trusted_sources": []
+  },
+  {
+    "id": 121,
+    "name": "FIFA 21",
+    "is_cracked": false,
+    "cracked_by": [
+      {
+        "name": "EA SPORTS",
+        "url": "https://www.ea.com/games/fifa",
+        "verified": true
+      }
+    ],
+    "crack_date": "2020-09-25",
+    "original_version": "1.0",
+    "cracked_version": "1.0",
+    "denuvo": true,
+    "image": "https://assets.goal.com/images/v3/bltde95f09fad0ce0f3/f7503bfbd076bcb69f0957343c00be42da8f388d.jpg?auto=webp&format=pjpg&width=3840&quality=60",
+    "trusted_sources": []
+  },
+  {
+    "id": 122,
+    "name": "FIFA 22",
+    "is_cracked": false,
+    "cracked_by": [
+      {
+        "name": "EA SPORTS",
+        "url": "https://www.ea.com/games/fifa",
+        "verified": true
+      }
+    ],
+    "crack_date": "2021-09-30",
+    "original_version": "1.0",
+    "cracked_version": "1.0",
+    "denuvo": true,
+    "image": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1506830/capsule_616x353.jpg?t=1712678728",
+    "trusted_sources": []
+  },
+  {
+    "id": 123,
+    "name": "FIFA 23",
+    "is_cracked": true,
+    "cracked_by": [
+      {
+        "name": "EA SPORTS",
+        "url": "https://www.ea.com/games/fifa/fifa-23",
+        "verified": true
+      }
+    ],
+    "crack_date": "2022-09-30",
+    "original_version": "1.0",
+    "cracked_version": "1.0.82.43747",
+    "denuvo": true,
+    "image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000047794/40f9e2f6d344d2607d4be72c6c4ebd3c18717ff87a56d6bbc303c42e58dd570d",
+    "trusted_sources": [
+      {
+        "name": "CS.RIN.RU",
+        "url": "https://cs.rin.ru/forum/viewtopic.php?f=10&t=124831&hilit=Fifa",
+        "verified": true
+      },
+      {
+        "name": "FitGirl",
+        "url": "https://fitgirl-repacks.site/fifa-23/",
+        "verified": true
+      },
+      {
+        "name": "DODI",
+        "url": "https://dodi-repacks.site/fifa-23/",
+        "verified": true
+      }
+    ],
+    "repack_available": true
+  },
+  {
+    "id": 124,
+    "name": "FIFA 24",
+    "is_cracked": false,
+    "cracked_by": [
+      {
+        "name": "EA SPORTS",
+        "url": "https://www.ea.com/games/fifa",
+        "verified": true
+      }
+    ],
+    "crack_date": "2023-09-29",
+    "original_version": "1.0",
+    "cracked_version": null,
+    "denuvo": true,
+    "image": "https://assets.goal.com/images/v3/bltc0075187372c2570/GOAL_-_Blank_WEB_-_Facebook_(53).jpg?auto=webp&format=pjpg&width=3840&quality=60",
+    "trusted_sources": []
+  },
+  {
+    "id": 125,
+    "name": "FIFA 25",
+    "is_cracked": false,
+    "cracked_by": [
+      {
+        "name": "EA SPORTS",
+        "url": "https://www.ea.com/games/ea-sports-fc/fc-25",
+        "verified": true
+      }
+    ],
+    "crack_date": "2024-09-27",
+    "original_version": "1.0",
+    "cracked_version": null,
+    "denuvo": true,
+    "image": "https://i.ytimg.com/vi/wqTY6qpVCsg/maxresdefault.jpg",
+    "trusted_sources": []
   }
 ]
-
+  
