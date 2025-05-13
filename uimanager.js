@@ -160,14 +160,13 @@ class UIManager {
                         </ul>
                     </div>` : ''}
 
-               ${game.online ? `
+               ${game.is_cracked ? `
 <div class="modal-section">
     <h3><i class="fas fa-wrench"></i> Update Tutorial</h3>
     <div class="tutorial-content">
-        <p>Methods used to update games: </p>
+        <strong>Methods used to update games: </strong>
         <ol class="tutorial-steps">
-            <li>
-                <strong>Update using Installer</strong>
+                <strong>◉ Update using Installer ◉</strong>
 
 <div class="tutorial-links">
     ${
@@ -185,16 +184,9 @@ class UIManager {
             `
     }
 </div>
-            <li>
-                <strong>Update using Re-Hash Method (RECOMMENDED) </strong>
+                <strong>◉ Update using Re-Hash Method (RECOMMENDED) ◉</strong>
                 <div class="tutorial-code">${game.update_method || '<a href="https://www.youtube.com/watch?v=ZJRRErY8lC0" target="_blank" rel="noopener noreferrer" class="tutorial-link">Youtube Video</a>'}</div>
-            </li>
         </ol>
-        ${game.update_guide ? `
-            <a href="${game.update_guide}" target="_blank" class="neon-btn">
-                <i class="fas fa-book"></i> Complete Update Guide
-            </a>
-        ` : ''}
     </div>
 </div>` : ''}
 
