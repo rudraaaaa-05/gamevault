@@ -1216,88 +1216,6 @@ h1::after {
 }
 
 
-.update-guide {
-    background: rgba(0, 30, 0, 0.3);
-    border: 1px solid var(--matrix-green);
-    border-radius: 8px;
-    padding: 2rem;
-    margin-top: 2rem;
-    position: relative;
-}
-
-.update-step {
-    padding: 1.5rem;
-    margin: 1.5rem 0;
-    background: rgba(0, 20, 0, 0.2);
-    border-radius: 6px;
-    border-left: 3px solid var(--matrix-green);
-}
-
-.update-step:last-child {
-    margin-bottom: 0;
-    padding-bottom: 0;
-    border-bottom: none;
-}
-
-.update-step h4 {
-    color: var(--matrix-green);
-    margin: 0 0 1rem;
-    display: flex;
-    align-items: center;
-    gap: 0.8rem;
-}
-
-.update-step p {
-    margin-bottom: 10px;
-    line-height: 1.6;
-}
-
-.update-step code {
-    background: rgba(0, 0, 0, 0.3);
-    padding: 4px 8px;
-    border-radius: 4px;
-    font-family: 'Inconsolata', monospace;
-    display: inline-block;
-    margin: 5px 0;
-    font-size: 0.9rem;
-    color: var(--matrix-green);
-    border: 1px solid var(--matrix-green);
-}
-
-/* ========== WATCHLIST MODAL ========== */
-#watchlist-modal .modal-content {
-    max-width: 600px;
-}
-
-.watchlist-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 20px;
-}
-
-.watchlist-clear {
-    background: rgba(255, 0, 0, 0.2);
-    border: 1px solid var(--uncracked);
-    color: var(--uncracked);
-    padding: 6px 12px;
-    border-radius: 4px;
-    cursor: pointer;
-    font-size: 0.8rem;
-    transition: all 0.2s;
-}
-
-.watchlist-clear:hover {
-    background: rgba(255, 0, 0, 0.3);
-}
-
-.watchlist-empty {
-    text-align: center;
-    padding: 40px;
-    color: var(--matrix-green);
-    font-size: 1.1rem;
-}
-
 /* ========== RESPONSIVE ========== */
 .status-badge,
 .denuvo-badge,
@@ -1902,4 +1820,57 @@ h1::after {
 #disqus_thread iframe {
     width: 100% !important;
     background: transparent !important;
+}
+
+
+/* Tutorial Section Styles */
+.tutorial-content {
+    background: rgba(0, 0, 0, 0.3);
+    border-left: 2px solid var(--accent-color);
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 0 5px 5px 0;
+}
+.tutorial-link {
+    color: #00ff0d !important;
+    text-decoration: underline;
+    transition: color 0.2s;
+}
+.tutorial-link:hover {
+    color: var(--matrix-green);
+}
+
+.tutorial-steps {
+    padding-left: 20px;
+    margin: 10px 0;
+}
+
+.tutorial-steps li {
+    margin-bottom: 8px;
+    position: relative;
+}
+
+.tutorial-steps li::before {
+    content: '→';
+    position: absolute;
+    left: -20px;
+    color: var(--accent-color);
+}
+
+.neon-btn {
+    display: inline-block;
+    padding: 8px 15px;
+    background: rgba(0, 0, 0, 0.3);
+    color: var(--text-color);
+    border: 1px solid var(--accent-color);
+    border-radius: 4px;
+    text-decoration: none;
+    margin-top: 10px;
+    transition: all 0.3s ease;
+}
+
+.neon-btn:hover {
+    background: var(--accent-color);
+    color: #000;
+    box-shadow: 0 0 10px var(--accent-glow);
 }

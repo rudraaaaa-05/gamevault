@@ -160,17 +160,43 @@ class UIManager {
                         </ul>
                     </div>` : ''}
 
-                    ${game.online_tutorial?.guide ? `
-                    <div class="update-guide">
-                        <h3><i class="fas fa-wrench"></i> Update Guide</h3>
-                        <div class="update-step">
-                            <h4>Recommended Method</h4>
-                            <p>${game.online_tutorial.methods.join('</p><p>')}</p>
-                            <a href="${game.online_tutorial.guide}" target="_blank" class="neon">
-                                <i class="fas fa-external-link-alt"></i> Full Tutorial
-                            </a>
-                        </div>
-                    </div>` : ''}
+               ${game.online ? `
+<div class="modal-section">
+    <h3><i class="fas fa-wrench"></i> Update Tutorial</h3>
+    <div class="tutorial-content">
+        <p>Methods used to update games: </p>
+        <ol class="tutorial-steps">
+            <li>
+                <strong>Update using Installer</strong>
+
+<div class="tutorial-links">
+    ${
+        game.update_sources?.length
+            ? game.update_sources.map(source => `
+                <a href="${source.url}" target="_blank" class="tutorial-link">
+                    <i class="fas fa-external-link-alt"></i> ${source.name}
+                    ${source.official ? '<span class="official-tag">OFFICIAL</span>' : ''}
+                </a>
+            `).join('')
+            : `
+                <a href="https://cs.rin.ru/forum/index.php" target="_blank" rel="noopener noreferrer" class="tutorial-link">CS.RIN.RU</a>
+                <a href="https://elamigos.site/#TopOfPage" target="_blank" rel="noopener noreferrer" class="tutorial-link">ElAmigos</a>
+                <a href="https://teamkong.tk/" target="_blank" rel="noopener noreferrer" class="tutorial-link">Team Kong</a>
+            `
+    }
+</div>
+            <li>
+                <strong>Update using Re-Hash Method (RECOMMENDED) </strong>
+                <div class="tutorial-code">${game.update_method || '<a href="https://www.youtube.com/watch?v=ZJRRErY8lC0" target="_blank" rel="noopener noreferrer" class="tutorial-link">Youtube Video</a>'}</div>
+            </li>
+        </ol>
+        ${game.update_guide ? `
+            <a href="${game.update_guide}" target="_blank" class="neon-btn">
+                <i class="fas fa-book"></i> Complete Update Guide
+            </a>
+        ` : ''}
+    </div>
+</div>` : ''}
 
                     <!-- Disqus Comments Section -->
                     <div class="modal-section">
