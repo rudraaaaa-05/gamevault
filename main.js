@@ -2,8 +2,11 @@ document.addEventListener('DOMContentLoaded', async () => {
     // Random subtitle setup
     const subtitles = [
         "GUESS WHO'S GOING TO JAIL TONIGHT",
-        "FUCK DENUVO",
-        "if buying isin't owning, piracy isin't stealing"
+        "if buying isin't owning, piracy isin't stealing",
+        "black don't crack",
+        "free games are better than paid games",
+        "games are meant to be shared",
+        
         
     ];
 
